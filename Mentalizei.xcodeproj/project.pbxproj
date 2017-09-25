@@ -22,6 +22,9 @@
 		77D704AB1F78A54500554F72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77D704AE1F78A54500554F72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77D704B01F78A54600554F72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77D704B61F78ABCF00554F72 /* aspas-direita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-direita.png"; sourceTree = "<group>"; };
+		77D704B71F78ABD000554F72 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		77D704B81F78ABD000554F72 /* aspas-esquerda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aspas-esquerda.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +57,9 @@
 		77D704A31F78A54500554F72 /* Mentalizei */ = {
 			isa = PBXGroup;
 			children = (
+				77D704B61F78ABCF00554F72 /* aspas-direita.png */,
+				77D704B81F78ABD000554F72 /* aspas-esquerda.png */,
+				77D704B71F78ABD000554F72 /* logo.png */,
 				77D704A41F78A54500554F72 /* AppDelegate.swift */,
 				77D704A61F78A54500554F72 /* ViewController.swift */,
 				77D704A81F78A54500554F72 /* Main.storyboard */,
